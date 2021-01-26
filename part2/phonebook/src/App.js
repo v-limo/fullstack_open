@@ -52,7 +52,7 @@ const App = () => {
     const personsCopy = [...persons]
     const foundName = personsCopy.find(({ name }) => newName === name)
     const foundNumber = personsCopy.find(({ number }) => newNumber === number)
-    
+
     if (!newName || !newNumber) {
       if (!newName) {
         setMessage(`Name cannot be empty`)
@@ -77,6 +77,7 @@ const App = () => {
           setNewName('')
           setNumber('')
           setMessage('')
+
           setSuccess(`Successfully updated contact`)
         })
       }
