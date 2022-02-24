@@ -6,7 +6,7 @@
   <!-- <a href="https://fullstack_open_2020.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Fullstack open 2020 part 0-2</h1>
+<h1 align="center">Fullstack open 2020</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{LimoVincent}}/fullstack_open_2020?color=56BEB8">
@@ -70,7 +70,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{LimoVincent}}/fullstack_open_2020
+$ git clone https://github.com/{{v-limo}}/fullstack_open_2020
 
 # Access
 $ cd fullstack_open_2020
@@ -88,7 +88,7 @@ $ yarn start
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-Made with :heart: by <a href="https://github.com/{{LimoVincent}}" target="_blank">{{Limo Vincent}}</a>
+Made with :heart: by <a href="https://github.com/v-limo" target="_blank">{{Limo Vincent}}</a>
 
 &#xa0;
 
